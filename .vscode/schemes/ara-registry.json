@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "supplier": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string",
+        "format": "url"
+      },
+      "play-store-id": {
+        "type": "string",
+        "format": "url"
+      },
+      "sha1": {
+        "type": "array",
+        "items": { "type": "string", "pattern": "^[a-z\\d]{40}$" }
+      }
+    },
+    "required": ["sha1", "supplier", "url"],
+    "additionalProperties": false
+  }
+}

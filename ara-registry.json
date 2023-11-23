@@ -1,0 +1,23 @@
+[
+  {
+    "supplier": "eSIM.me",
+    "url": "https://esim.me",
+    "play-store-id": "esim.me",
+    "sha1": [
+      "a4ec39717cecd7f1e84e913b22b0555fe7dfdd8a",
+      "8d48ecfaf44c5752145ee28b3eb7429cc6627e98",
+      "46bcaf2247253f695f19d60eece158099fe52c62",
+      "fa4abb42827a0fbceb891ddc0d34f658c21ff88c",
+      "35cc639bb5826fde0d0ef088b0f20cb69f0c49ad"
+    ]
+  },
+  {
+    "supplier": "5ber.eSIM",
+    "url": "https://esim.5ber.com",
+    "play-store-id": "com.ifreegroup.moesim",
+    "sha1": [
+      "a8be3c101f840c5025c8a3d8daf5531dd91b1134",
+      "31f78f62fe89aceed93d970d5675f2034edca7e7"
+    ]
+  }
+]

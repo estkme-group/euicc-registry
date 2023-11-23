@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "no": {
+        "type": "string"
+      },
+      "supplier": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string",
+        "format": "url"
+      },
+      "valid_from": {
+        "type": "string"
+      },
+      "valid_until": {
+        "type": "string"
+      }
+    },
+    "required": ["no", "supplier", "url", "valid_from", "valid_until"],
+    "additionalProperties": false
+  }
+}

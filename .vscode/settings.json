@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "json.schemas": [
+    {
+      "fileMatch": ["**/sas-certificates.json"],
+      "url": ".vscode/schemes/sas-certificates.json"
+    },
+    {
+      "fileMatch": ["**/ara-registry.json"],
+      "url": ".vscode/schemes/ara-registry.json"
+    }
+  ]
+}
