@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GSM Association - RSP2 Root CI1",
+    "type": "consumer",
+    "key-id": "81370f5125d0b1d408d4c3b232e6d25e795bebfb"
+  },
+  {
+    "name": "GSM Association - M2M31 Root CI2",
+    "type": "m2m",
+    "key-id": "d7a7d0c7c04ea76076e3f44faebde8779e2948d4"
+  },
+  {
+    "name": "China Unicom eSIM Root CA",
+    "type": "consumer-cn",
+    "key-id": "16b5d16048e3ea02bd4b606e5f77a4bf20808d83"
+  },
+  {
+    "name": "Taier eSIM Root CA - NISTP256",
+    "type": "consumer-cn",
+    "key-id": "148030fc246c02ff222106125a8d6bda990afbe9"
+  },
+  {
+    "name": "Test CI (ECDSA BRP)",
+    "type": "test",
+    "key-id": "c0bc70ba36929d43b467ff57570530e57ab8fcd8"
+  },
+  {
+    "name": "Test CI (ECDSA NIST)",
+    "type": "test",
+    "key-id": "f54172bdf98a95d65cbeb88a38a1c11d800a85c3"
+  }
+]

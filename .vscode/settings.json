@@ -12,6 +12,10 @@
     {
       "fileMatch": ["**/ara-registry.json"],
       "url": ".vscode/schemes/ara-registry.json"
+    },
+    {
+      "fileMatch": ["**/ci-registry.json"],
+      "url": ".vscode/schemes/ci.json"
     }
   ]
 }
