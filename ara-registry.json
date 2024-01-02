@@ -2,7 +2,7 @@
   {
     "supplier": "eSIM.me",
     "url": "https://esim.me",
-    "play-store-id": "esim.me",
+    "package-name": "esim.me",
     "sha1": [
       "a4ec39717cecd7f1e84e913b22b0555fe7dfdd8a",
       "8d48ecfaf44c5752145ee28b3eb7429cc6627e98",
@@ -14,7 +14,7 @@
   {
     "supplier": "5ber.eSIM",
     "url": "https://esim.5ber.com",
-    "play-store-id": "com.ifreegroup.moesim",
+    "package-name": "com.ifreegroup.moesim",
     "sha1": [
       "a8be3c101f840c5025c8a3d8daf5531dd91b1134",
       "31f78f62fe89aceed93d970d5675f2034edca7e7"
@@ -23,7 +23,7 @@
   {
     "supplier": "EasyEUICC",
     "url": "https://gitea.angry.im/PeterCxy/OpenEUICC",
-    "play-store-id": "im.angry.easyeuicc",
+    "package-name": "im.angry.easyeuicc",
     "sha1": ["2a2fa878bc7c3354c2cf82935a5945a3edae4afa"]
   }
 ]

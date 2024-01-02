@@ -11,9 +11,8 @@
         "type": "string",
         "format": "url"
       },
-      "play-store-id": {
-        "type": "string",
-        "format": "url"
+      "package-name": {
+        "type": "string"
       },
       "sha1": {
         "type": "array",
