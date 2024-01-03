@@ -5,6 +5,11 @@
     "address": "lpa.ds.gsma.com"
   },
   {
+    "name": "Verizon Wireless",
+    "type": "consumer",
+    "address": "lpads.vzw.otgeuicc.com"
+  },
+  {
     "name": "Stork",
     "type": "consumer",
     "address": "prod.smds.rsp.goog"
