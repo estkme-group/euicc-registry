@@ -3,6 +3,7 @@
 - [ARA-M Registry](ara-registry.json)
 - [SAS Certificates](sas-certificates.json)
 - [Root CIs](ci-registry.json)
+- [SM-DS](smds-registry.json)
 
 ## References
 

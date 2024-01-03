@@ -16,6 +16,10 @@
     {
       "fileMatch": ["**/ci-registry.json"],
       "url": ".vscode/schemes/ci.json"
+    },
+    {
+      "fileMatch": ["**/smds-registry.json"],
+      "url": ".vscode/schemes/smds-registry.json"
     }
   ]
 }

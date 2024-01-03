@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "type": {
+        "type": "string",
+        "enum": ["consumer", "consumer-cn", "m2m", "test"]
+      },
+      "address": {
+        "type": "string"
+      }
+    },
+    "required": ["name", "type", "address"],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GSM Association",
+    "type": "consumer",
+    "address": "lpa.ds.gsma.com"
+  },
+  {
+    "name": "Stork",
+    "type": "consumer",
+    "address": "prod.smds.rsp.goog"
+  },
+  {
+    "name": "Stork",
+    "type": "test",
+    "address": "dev.smds.rsp.goog"
+  },
+  {
+    "name": "eSIM Discovery",
+    "type": "consumer",
+    "address": "lpa.live.esimdiscovery.com"
+  },
+  {
+    "name": "eSIM Discovery",
+    "type": "test",
+    "address": "lpa.live.esimdiscovery.dev"
+  },
+  {
+    "name": "Test Root",
+    "type": "test",
+    "address": "testrootsmds.example.com"
+  }
+]
