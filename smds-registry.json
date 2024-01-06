@@ -32,6 +32,6 @@
   {
     "name": "Test Root",
     "type": "test",
-    "address": "testrootsmds.example.com"
+    "address": "testrootsmds.gsma.com"
   }
 ]
